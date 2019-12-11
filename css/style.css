@@ -58,7 +58,7 @@
     background: #f5f5f5;
     width: 60px;
     height: 20px;
-    background-color:lightblue;
+    /* background-color:lightblue; */
 }
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
@@ -67,7 +67,7 @@
     background: #f5f5f5;
     width: 60px;
     height: 20px;
-    background-color:lightblue;
+    /* background-color:lightblue; */
 }
 
 /* Esercizio 1 */
